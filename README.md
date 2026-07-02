@@ -4,13 +4,13 @@
 
 🎓 Electrical Engineering Student @ NUST
 
----
+
 
 ## 🚀 About Me
 
 I am passionate about Artificial Intelligence and building intelligent systems that solve real-world problems. I enjoy developing AI-powered applications and continuously exploring emerging technologies.
 
----
+
 
 ## 💻 Tech Stack
 
@@ -24,7 +24,7 @@ I am passionate about Artificial Intelligence and building intelligent systems t
 - Computer Vision
 - Git & GitHub
 
----
+
 
 ## 🌱 Currently Exploring
 
@@ -35,7 +35,7 @@ I am passionate about Artificial Intelligence and building intelligent systems t
 - Robotics
 - Emerging Technologies
 
----
+
 
 ## 🎯 Goals
 
@@ -44,7 +44,7 @@ I am passionate about Artificial Intelligence and building intelligent systems t
 - Publish AI projects
 - Create innovative solutions using emerging technologies
 
----
+
 
 ## 📫 Connect With Me
 
