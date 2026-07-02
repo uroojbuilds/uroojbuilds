@@ -21,6 +21,7 @@ I am passionate about Artificial Intelligence and building intelligent systems t
 - Deep Learning
 - Generative AI
 - Natural Language Processing (NLP)
+-LLMS
 - Computer Vision
 - Git & GitHub
 
