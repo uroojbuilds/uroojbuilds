@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi there 👋, I'm Urooj Fatima
 
-<!--
-**uroojbuilds/uroojbuilds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Engineer | Machine Learning | Deep Learning | Generative AI
 
-Here are some ideas to get you started:
+🎓 Electrical Engineering Student @ NUST
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+I am passionate about Artificial Intelligence and building intelligent systems that solve real-world problems. I enjoy developing AI-powered applications and continuously exploring emerging technologies.
+
+---
+
+## 💻 Tech Stack
+
+- Python
+- C++
+- Object-Oriented Programming (OOP)
+- Machine Learning
+- Deep Learning
+- Generative AI
+- Natural Language Processing (NLP)
+- Computer Vision
+- Git & GitHub
+
+---
+
+## 🌱 Currently Exploring
+
+- Large Language Models (LLMs)
+- AI Agents
+- MLOps
+- AI Research
+- Robotics
+- Emerging Technologies
+
+---
+
+## 🎯 Goals
+
+- Build impactful AI applications
+- Contribute to Open Source
+- Publish AI projects
+- Create innovative solutions using emerging technologies
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/urooj-fatima-b52495342
+- Email: uroojbhatti35@gmail.com
+
+⭐ Thanks for visiting my profile!
