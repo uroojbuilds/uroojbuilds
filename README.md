@@ -24,6 +24,7 @@ I am passionate about Artificial Intelligence and building intelligent systems t
 -LLMS
 - Computer Vision
 - Git & GitHub
+- n8n
 
 
 
