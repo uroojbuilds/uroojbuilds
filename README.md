@@ -123,9 +123,12 @@ End-to-end ML pipeline predicting customer churn from behavioral data.
 
 ## 📜 Certifications
 
-- Coursera — API, LLM, Agentic AI, MCP & Multi-Model concepts (via n8n)
-- Coursera — IoT for Everyone
-- DigiSkills — Freelancing, WordPress, Digital Marketing, UI/UX
+- [Coursera — API, LLM, Agentic AI, MCP & Multi-Model concepts (via n8n)](https://coursera.org/share/be96ef279e74ea7f34c4d6e5cf2ce65e)
+- [Coursera — IoT for Everyone](https://coursera.org/share/8e9dc78692b29200f72b37aca2b1b6b5)
+- DigiSkills — Digital Marketing ([verify](https://digiskills.pk/verify/) with ID: `MWJ689HMK`)
+- DigiSkills — Freelancing ([verify](https://digiskills.pk/verify/) with ID: `8F9YE2PMK`)
+- DigiSkills — UI/UX & Webflow ([verify](https://digiskills.pk/verify/) with ID: `SJYA2CBMK`)
+- DigiSkills — WordPress ([verify](https://digiskills.pk/verify/) with ID: `XQSNGUXMK`)
 - Bano Qabil — Generative AI Program (voluntary work completed, certificate pending)
 - Duke University — MLOps Specialization *(in progress)*
 
@@ -175,6 +178,12 @@ End-to-end ML pipeline predicting customer churn from behavioral data.
 ⭐ Thanks for stopping by — always open to collaborating on AI/ML projects!
 
 </div>
+
+
+
+
+
+
 
 
 
