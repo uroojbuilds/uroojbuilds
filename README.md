@@ -1,5 +1,3 @@
-
-
 <div align="center">
 
 # Urooj Fatima
@@ -62,25 +60,32 @@ I care about shipping things that work, not just following tutorials — every p
 ## 🚀 Featured Projects
 
 ### 🤖 [DocMind AI](https://github.com/uroojbuilds/Docmind-Ai)
-RAG-based document chatbot — upload documents and query them in natural language, powered by Groq + Pinecone + LangChain.
+RAG-based document chatbot — upload documents and query them in natural language.
+`Python` `FastAPI` `LangChain` `Groq` `Pinecone`
 
 ### 🎯 [Weapon Detection System](https://github.com/uroojbuilds/Computer-Vision/tree/main/weapon-detection)
-Real-time custom 9-class weapon detection using YOLOv8 + OpenCV, with an audio alarm trigger on detection.
+Real-time custom 9-class weapon detection with an audio alarm trigger on detection.
+`YOLOv8` `OpenCV` `Python`
 
 ### 🧬 [PassionDNA AI](https://github.com/uroojbuilds/passiondna-ai)
-Streamlit + Google Gemini app that maps a user's interests to potential career/passion paths — built for the DEV Weekend Challenge.
+Maps a user's interests to potential career/passion paths — built for the DEV Weekend Challenge.
+`Streamlit` `Google Gemini` `Python`
 
 ### 🩺 [Diabetes Care AI](https://github.com/uroojbuilds/Diabetes-Care-Ai)
 ML-powered diabetes risk assessment and care assistant.
+`Python` `Machine Learning`
 
 ### 📊 [Customer Churn Prediction](https://github.com/uroojbuilds/Machine-learning/tree/main/customer-churn-prediction)
 End-to-end ML pipeline predicting customer churn from behavioral data.
+`Python` `Scikit-learn`
 
 ---
 
 ## 🗂 Additional Projects (Previous Account)
 
-More hands-on ML/AI practice projects, currently on [Urooj25](https://github.com/Urooj25):
+<details>
+<summary>12 more hands-on ML/AI practice projects — click to expand</summary>
+<br>
 
 - [Movie Recommender System](https://github.com/Urooj25/Movie-Recommender-System)
 - [Movie Review Sentiment Analysis](https://github.com/Urooj25/Movie-review-sentiment-analysis)
@@ -95,11 +100,13 @@ More hands-on ML/AI practice projects, currently on [Urooj25](https://github.com
 - [Your Health Assistant](https://github.com/Urooj25/Your-Health-Assistent)
 - [Student Performance ML Project](https://github.com/Urooj25/student-performance-ML-project)
 
+</details>
+
 ---
 
 ## 🏆 Hackathons & Challenges
 
-- 🩹 **DEV Summer Bug Smash** — "Clear the Lineup" track, submitting fixes from DocMind AI (CORS bug, requirements.txt encoding fix)
+- 🩹 **DEV Summer Bug Smash** *(in progress)* — "Clear the Lineup" track, submitted fixes from DocMind AI (CORS bug, requirements.txt encoding fix); result pending
 - 🧬 **DEV Weekend Challenge** — built and shipped PassionDNA AI
 - ☁️ **Alibaba Cloud Hackathon** (Alkhidmat Foundation) — registered, building an education-focused project
 
@@ -129,19 +136,20 @@ More hands-on ML/AI practice projects, currently on [Urooj25](https://github.com
 ## 📊 GitHub Stats
 
 <div align="center">
-
-**uroojbuilds (current)**
-<br>
 <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=uroojbuilds&show_icons=true&theme=tokyonight" />
 <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=uroojbuilds&layout=compact&theme=tokyonight" />
+</div>
 
-<br><br>
+<div align="center">
+<img src="https://streak-stats.demolab.com/?user=uroojbuilds&theme=tokyonight" alt="GitHub Streak" />
+</div>
 
-**Urooj25 (previous, 300+ commits)**
-<br>
-<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Urooj25&show_icons=true&theme=tokyonight" />
-<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Urooj25&layout=compact&theme=tokyonight" />
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=uroojbuilds&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</div>
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=uroojbuilds&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
 > 💡 Earlier work (300+ commits) lives on my previous account — [Urooj25](https://github.com/Urooj25) — migrated key projects here after losing access to it.
@@ -167,5 +175,11 @@ More hands-on ML/AI practice projects, currently on [Urooj25](https://github.com
 ⭐ Thanks for stopping by — always open to collaborating on AI/ML projects!
 
 </div>
+
+
+
+
+
+
 
 
