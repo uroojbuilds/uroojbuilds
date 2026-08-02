@@ -1,4 +1,5 @@
 
+
 <div align="center">
 
 # Urooj Fatima
@@ -128,8 +129,19 @@ More hands-on ML/AI practice projects, currently on [Urooj25](https://github.com
 ## 📊 GitHub Stats
 
 <div align="center">
+
+**uroojbuilds (current)**
+<br>
 <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=uroojbuilds&show_icons=true&theme=tokyonight" />
 <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=uroojbuilds&layout=compact&theme=tokyonight" />
+
+<br><br>
+
+**Urooj25 (previous, 300+ commits)**
+<br>
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Urooj25&show_icons=true&theme=tokyonight" />
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Urooj25&layout=compact&theme=tokyonight" />
+
 </div>
 
 > 💡 Earlier work (300+ commits) lives on my previous account — [Urooj25](https://github.com/Urooj25) — migrated key projects here after losing access to it.
@@ -155,3 +167,5 @@ More hands-on ML/AI practice projects, currently on [Urooj25](https://github.com
 ⭐ Thanks for stopping by — always open to collaborating on AI/ML projects!
 
 </div>
+
+
