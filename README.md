@@ -14,7 +14,7 @@
 
 </div>
 
----
+
 
 ## 👋 About Me
 
@@ -22,7 +22,7 @@ I'm an Electrical Engineering student at NUST who taught herself AI/ML from the 
 
 I care about shipping things that work, not just following tutorials — every project below is deployed, documented, and open source.
 
----
+
 
 ## 🛠 Tech Stack
 
@@ -55,7 +55,7 @@ I care about shipping things that work, not just following tutorials — every p
 
 **Also comfortable with:** OOP • NLP • Deep Learning • Generative AI • n8n • WordPress • UI/UX • Digital Marketing
 
----
+
 
 ## 🚀 Featured Projects
 
@@ -79,7 +79,7 @@ ML-powered diabetes risk assessment and care assistant.
 End-to-end ML pipeline predicting customer churn from behavioral data.
 `Python` `Scikit-learn`
 
----
+
 
 ## 🗂 Additional Projects (Previous Account)
 
@@ -102,7 +102,7 @@ End-to-end ML pipeline predicting customer churn from behavioral data.
 
 </details>
 
----
+
 
 ## 🏆 Hackathons & Challenges
 
@@ -124,7 +124,7 @@ End-to-end ML pipeline predicting customer churn from behavioral data.
 
 ✍️ Writing Debut &nbsp;•&nbsp; 💻 2026 WeCoded Completion
 
----
+
 
 ## 📜 Certifications
 
@@ -139,7 +139,7 @@ End-to-end ML pipeline predicting customer churn from behavioral data.
 
 **Currently learning:** Data Structures & Algorithms • MLOps • Arduino • Prompt Engineering
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -162,7 +162,7 @@ End-to-end ML pipeline predicting customer churn from behavioral data.
 
 > 💡 Earlier work (300+ commits) lives on my previous account — [Urooj25](https://github.com/Urooj25) — migrated key projects here after losing access to it.
 
----
+
 
 ## 📫 Connect With Me
 
@@ -176,7 +176,7 @@ End-to-end ML pipeline predicting customer churn from behavioral data.
 
 </div>
 
----
+
 
 <div align="center">
 
